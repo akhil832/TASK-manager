@@ -1,0 +1,4 @@
+its task manager webapp
+built by react js in frontend url=localhost/3000
+backend springboot url=localhost/8080
+database is mongodb  url=localhost/27017
