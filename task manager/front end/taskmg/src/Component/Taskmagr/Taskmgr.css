@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    background-color: #cef6f8;
+    
+}
+
+h1{
+    color: rgb(114, 101, 103);
+    margin-top: 0;
+    margin-left: 5px;
+    margin-bottom: 0;
+    
+   
+
+}
+.mainHeading{
+    background-color: rgb(184, 218, 224)
+
+
+}
+h2{
+    margin-bottom: 0;
+    color: rgb(121, 126, 131);
+    margin-left: 5px;
+}
+.input{
+    padding: 10px;
+    width: 100%;
+    background-color: rgb(152, 191, 250);
+    height: 30px;
+    border: 2px solid rgb(158, 158, 163);
+
+
+}
+.taskIn{
+
+    width: 90%;
+    padding: 5px;
+    border-radius: 10px;
+}
+.list{
+
+    background-color: rgb(182, 210, 236);
+    width: 70%;
+    padding: 10px;
+    margin-bottom: 0;
+    border-radius: 6px;
+    margin-left: 20px;
+    overflow: hidden;
+}
+.delete{
+   /* margin-left: 50%;*/
+   float: right;
+    box-sizing: border-box;
+    background-color: rgb(236, 150, 150);
+    border-radius: 6px;
+    padding: 2px;
+    border: 3px solid silver;
+    cursor: pointer;
+
+   
+}
+
+i{
+    padding: 10px;
+    color: rgb(10, 14, 3);
+    font-size:34px;
+    cursor: pointer;
+}
